@@ -1,0 +1,202 @@
+@media only screen and (max-width:760px) {
+    .centerdiv .text1{
+        font-size: 30px;
+        left: 30%;
+        top:30%
+    }
+    .text2{
+        font-size: 30px;
+        left: 17%;
+        top: 44%;
+    }
+    .text3{
+        font-size: 7px;
+        left: 5%;
+        top: 64%;
+    }
+   .shaper,.arrows,.leftdiv,.rightdiv{
+display: none;
+    }
+    .learnbutton{
+        margin-top: 65px;
+        padding: 4px 8px;
+        font-size: 5px;
+        left: 40%;
+    }
+    .iconcenter{
+     width: 260px;
+     height: 100%;
+     margin-left: 40%;
+    }
+    .navigationbar{
+     display: block;
+    }
+    .logo{
+     height: 12px;
+   
+ 
+    }
+    .nbcenter {
+        margin: 10px 10%;
+        display: flex;
+        align-items: center;
+    }
+    .nbtext, .nbtext1{
+        font-size: 7px;
+        margin-bottom: 3px;
+    }
+    .hoverdots, .hoverdots1{
+        display: none;   
+    }
+    .nbright{
+    margin-top: 0;
+    position: relative;
+    }
+    .contactbutton{
+        margin-top: 0;
+        position: absolute;
+        top: 50%;
+        left: 42%;
+       padding: 4px 8px;
+        font-size: 7px;  
+     }
+    .whatsappicon{
+    display: none; }
+    hr{
+        height: 70px;
+    }
+    .page2{
+        margin: 10% 20px;
+        display: grid;
+        grid-template-rows: 300px 300px;
+        grid-template-columns: 100%;
+        row-gap: 30px;
+    }
+    .background{
+        width: 70%;
+        height: 50%;
+    }
+    .aboutdiv{
+        background-size: 100% 100%;
+    }
+    
+   .p1{
+    font-size: 12px;
+    text-align: center;
+   }
+   .p2{
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+   }
+   .p3{
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+   }
+   .arrowicon{
+    margin-top: 17px;
+   }
+   .arrow{
+    margin: 0;
+   }
+   .p4{
+    font-size: 12px;
+    line-height: 18px;
+   }
+   .learnbutton2{
+    margin-top: 12%;
+    padding: 7px 15px;
+    font-size: 12px;
+   }
+   .headpage3{
+    font-size: 24px;
+    line-height: 28px;
+   }
+   .page3boxes{
+    display: grid;
+    grid-template-rows: 220px 220px 220px;
+    grid-template-columns: 80%;
+    row-gap: 30px;
+   }
+   .page4grid{
+   display: grid;
+   grid-template-columns: 100%;
+   grid-template-rows: 270px 270px 270px 270px 270px 270px 270px 270px;
+   }
+   .quote5{
+    margin: 10px ;
+    font-size: 30px;
+   }
+   .page5div{
+    top: 38%;
+   }
+   .page6div{
+    margin: 30px 4% 50px;
+   }
+   .page6text{
+    font-size: 12px;
+   }
+   .page6text .fa-solid{
+  display: none;
+   }
+.workimg{
+    display: block;
+  
+}
+
+.workimg div img{
+    width: 375px;
+
+}
+.pricetag{
+    display: grid;
+    grid-template-rows: 450px 520px 450px;
+    grid-template-columns: 320px;
+    row-gap: 40px;
+    margin: 0 8%;
+}
+.page8box1{
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.page8box2{
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+.page8box3{
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+.testimonial1,.testimonial2,.testimonial3,.testimonial4,
+.testimonial5,.testimonial6,.testimonial7,.testimonial8{
+display: none;
+}
+.mapdiv1{
+ left: 10%;
+}
+.mapdiv2{
+    margin: 0;
+    position: absolute;
+    top: 310px;
+    left: 0;
+    width: 100%;
+}
+.client1,client2{
+    text-align: left;
+}
+.clientpara{
+    line-height: 20px;
+}
+.david{
+    margin-top: 15px;
+}
+.agencyblog{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 590px 590px;
+}
+}
+
+
+
