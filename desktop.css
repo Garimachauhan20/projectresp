@@ -1,0 +1,36 @@
+@media only screen and (min-width: 768px)and (max-width: 1440px){ 
+    .centerdiv{
+        height: 500px;
+    }
+  .shaper2{
+    top: 13%;
+  }
+    .nbtext, .nbtext1{
+        font-size: 14px;
+     
+    }
+    .nbcenter{
+        margin: 0;
+    }
+  
+
+    .page2{
+        margin: 10% 10%;
+        display: grid;
+        grid-template-rows: 500px ;
+        grid-template-columns: 50% 50%;
+        column-gap: 30px;
+        margin-bottom: 0;
+    }
+    .background{
+        width: 90%;
+        height: 70%;
+    }
+    .aboutdiv{
+        background-size: 100% 100%;
+    }
+     
+   .page3{
+    margin: 50px 0px;
+   }
+}  

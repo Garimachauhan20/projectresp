@@ -1,0 +1,221 @@
+@media only screen and (max-width:499px) {
+    .frontpage{
+        display: flex;
+            margin: 0;
+    }
+    .centerdiv{
+        height: 300px;
+    } .text1{
+        font-size: 30px;
+    }
+    .text2{
+        font-size: 30px;
+    }
+    .text3{
+        font-size: 7px;
+    }
+   .shaper,.arrows,.leftdiv,.rightdiv{
+display: none;
+    }
+    .page1text{
+        padding: 50px 0 0 30px;
+        padding-top: 50px;
+    }
+    .learnbutton{
+        padding: 4px 8px;
+        font-size: 5px;
+ 
+    }
+    .iconcenter{
+        width: 80%;
+    }
+    .navigationbar{
+     display: block;
+    }
+    .logo{
+     height: 12px;
+   
+ 
+    }
+    .nbcenter {
+        margin: 10px 10%;
+        display: flex;
+        align-items: center;
+    }
+    .nbtext, .nbtext1{
+        font-size: 7px;
+        margin-bottom: 3px;
+    }
+    .hoverdots, .hoverdots1{
+        display: none;   
+    }
+    .nbright{
+    margin-top: 0;
+    position: relative;
+    }
+    .contactbutton{
+        margin-top: 0;
+        position: absolute;
+        top: 50%;
+        left: 42%;
+       padding: 4px 8px;
+        font-size: 7px;  
+     }
+    .whatsappicon{
+    display: none; }
+    hr{
+        height: 70px;
+    }
+    .page2{
+        margin: 10% 20px;
+        display: grid;
+        grid-template-rows: 300px 300px;
+        grid-template-columns: 100%;
+        row-gap: 30px;
+    }
+    .background{
+        width: 70%;
+        height: 50%;
+    }
+    .aboutdiv{
+        background-size: 100% 100%;
+    }
+    
+   .p1{
+    font-size: 12px;
+    text-align: center;
+   }
+   .p2{
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+   }
+   .p3{
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+   }
+   .arrowicon{
+    margin-top: 17px;
+   }
+   .arrow{
+    margin: 0;
+   }
+   .p4{
+    font-size: 12px;
+    line-height: 18px;
+   }
+   .learnbutton2{
+    margin-top: 12%;
+    padding: 7px 15px;
+    font-size: 12px;
+   }
+   .headpage3{
+    margin: 20% 0 0 0;
+    font-size: 24px;
+    line-height: 28px;
+   }
+   .page3boxes{
+    margin: 10% 10%;
+    display: grid;
+    grid-template-rows: 220px 220px 220px;
+    grid-template-columns: 100%;
+    row-gap: 30px;
+   }
+   .page4{
+    width: 100%;
+   }
+   .page4grid{
+    margin: 10% 10%;
+   display: grid;
+   grid-template-columns: 100%;
+   grid-template-rows: 290px 290px 290px 290px 290px 290px 290px 290px;
+   }
+   .gridpara{
+    padding: 27% 0 27%;
+   }
+   .quote5{
+    margin: 10px ;
+    font-size: 28px;
+   }
+   .page5div{
+    top: 38%;
+   }
+   .page6div{
+    margin: 30px 4% 50px;
+   }
+   .page6text{
+    font-size: 12px;
+   }
+   .page6text .fa-solid{
+  display: none;
+   }
+.workimg{
+    display: block;
+    width: 100%;
+}
+
+.workimg div img{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.work1,.work2,.work3,.work4,.work5,.work6{
+    width: 100%;
+}
+.pricetag{
+    display: grid;
+    grid-template-rows: 450px 520px 450px;
+    grid-template-columns: 100%;
+    row-gap: 40px;
+    margin: 0 10%;
+}
+.page8box1{
+    grid-row-start: 1;
+    grid-row-end: 2;
+   
+}
+.page8box2{
+    grid-row-start: 2;
+    grid-row-end: 3;
+    width: 100%;
+
+}
+.page8box3{
+    grid-row-start: 3;
+    grid-row-end: 4;
+
+}
+.testimonial1,.testimonial2,.testimonial3,.testimonial4,
+.testimonial5,.testimonial6,.testimonial7,.testimonial8{
+display: none;
+}
+.mapdiv1{
+ left: 14%;
+}
+.mapdiv2{
+    margin: 0;
+    position: absolute;
+    top: 310px;
+    left: 0;
+    width: 100%;
+}
+.client1,.client2{
+    text-align: center;
+}
+.clientpara{
+    font-size: 16px;
+    line-height: 20px;
+}
+.david{
+    margin-top: 15px;
+}
+.agencyblog{
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 590px 590px;
+}
+}
+
+
+
